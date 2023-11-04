@@ -3,7 +3,7 @@
 udemig interaction page
 
 
-<h1>used tecnologies</h1>
+<h1>used technologies</h1>
 HTML
 CSS
 
